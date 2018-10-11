@@ -41,7 +41,18 @@ Datos a llenar de gniptwitter.sh
 Datos a llenar de notificaciones.sh
 ![](images/install_gnipconsumos3.JPG)
 
+Interfaz de inicio:
+![](images/install_gnipconsumos4.JPG)
+
+Interfaz de consumo por día y notificación por correo:
+![](images/install_gnipconsumos5.JPG)
+
+Notificaciones por correo:
+
+<img src="images/install_gnipconsumos6.JPG" width="360">
+
 Video instalación demo (enlace):
 
 [![Instalación GNIPCONSUMOS](https://i.ytimg.com/vi/ktNE9EfG_wI/hqdefault.jpg)](https://www.youtube.com/watch?v=ktNE9EfG_wI)
+
 
