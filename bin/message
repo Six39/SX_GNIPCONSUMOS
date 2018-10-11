@@ -1,0 +1,17 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<h4>CONSUMOS DESDE GNIP TWITTER</h4>
+
+
+<p> Tomar como referencia la fecha y hora en el Subject de este correo</p>
+<p> El correo se ha generado de forma automática </p>
+<!--<img src="cid:apitwitter.png" alt="imagenconsumos"/>
+<img src="cid:graf_gentwitter.png" alt="graficageneral"/>
+<img src="cid:graf_diatwitter.png" alt="graficadia"/> -->
+<p>Enviado desde la plataforma: http://aquitudominio/gnipconsumos<p>
+</body>
+<!-- OCUPO CID: PARA REFERENCIAR EL ADJUNTO CON LA IMAGEN EN EL CUERPO DEL MESAJE-->
+</html>
