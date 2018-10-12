@@ -1,1 +1,2 @@
-install_temp/* linguist-vendored
+special-vendored-path/* linguist-vendored
+jquery.js linguist-vendored=false
